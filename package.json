@@ -18,7 +18,7 @@
     "@holidayextras/jsonapi-client": "^1.0.0",
     "@material-ui/core": "^4.4.0",
     "@material-ui/pickers": "^3.2.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.5",
     "classnames": "^2.2.6",
     "css-loader": "^3.2.0",
