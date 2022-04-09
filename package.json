@@ -28,7 +28,7 @@
     "jsoneditor-react": "^1.0.1",
     "just-debounce-it": "^1.1.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "plotly.js": "^1.51.3",
     "prop-types": "^15.7.2",
     "ra-jsonapi-client": "github:tmiguelt/ra-jsonapi-client#github-publish",
